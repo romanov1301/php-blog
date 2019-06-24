@@ -56,7 +56,7 @@
                   </article>
 
                   <article class="article">
-                    <div class="article__image" style="background-image: url(/media/images/test4.jpg);"></div>
+                    <div class="article__image" style="background-image: url(/media/images/test5.jpg);"></div>
                     <div class="article__info">
                       <a href="#">Hello World_4</a>
                       <div class="article__info__meta">
