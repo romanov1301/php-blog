@@ -1,0 +1,69 @@
+img.displayed{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.Skiing{
+    position: relative;
+    margin-left: 22%;
+}
+
+.Yoga{
+    position: relative;
+    margin-left: 22%;
+}
+
+.Swim{
+    position: relative;
+    margin-left: 35%;
+    margin-top: -9%;
+}
+
+.Gym{
+    position: relative;
+    margin-left: 35%;
+    margin-top: 1%;
+}
+
+.Snowboard{
+    position: relative;
+    margin-top: -7%;
+    margin-left: 48%;
+}
+
+.Surfing{
+    position: relative;
+    margin-left: 48%;
+    margin-top: 1%;
+}
+
+.watersking{
+    position: relative;
+    margin-top: -7%;
+    margin-left: 61%;
+}
+
+.Parachute{
+    position: relative;
+    margin-top: 1%;
+    margin-left: 61%;
+}
+
+.Songs{
+    position: relative;
+    margin-left: 74%;
+    margin-top: -7% ;
+}
+
+.Guide{
+    position: relative;
+    margin-left: 74%;
+    margin-top: 1%;
+}
+
+.form-signin{
+    max-width: 400px;
+    padding: 15px;
+    margin: 0 auto;
+}
